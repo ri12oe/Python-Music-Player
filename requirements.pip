@@ -1,0 +1,12 @@
+scipy
+numpy
+psutil
+pillow
+pywin32
+mutagen
+wxpython
+modpybass
+objectlistview
+git+https://git@github.com/peppy0510/python-mstr.git
+git+https://git@github.com/peppy0510/python-mpath.git
+git+https://git@github.com/peppy0510/python-dtruct.git
